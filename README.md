@@ -14,4 +14,5 @@ There are two data used.
 The population.csv data has been used. The Bar Graph is prepared for the "SAARC countries".
 
 **Histogram**
+
 The filtered_pop_2023 data has been used. The historgram is used to show the distribution of population sizes in 2023. 
